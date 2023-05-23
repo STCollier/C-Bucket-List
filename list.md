@@ -1,1 +1,12 @@
-- Test
+- Text-based CLI Adventure Game (stdlib)
+- Basic 3D Physics (OpenGL)
+- Simple Minecraft Remake (OpenGL)
+- GUI Library (SDL2)
+- Text Editor ([Resource](https://viewsourcecode.org/snaptoken/kilo/))
+- Simple Programming Language
+- Operating System
+    - https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
+    - https://github.com/cfenollosa/os-tutorial
+    - https://wiki.osdev.org/Projects
+    - Requires Assembly
+        - http://www.egr.unlv.edu/~ed/assembly64.pdf
